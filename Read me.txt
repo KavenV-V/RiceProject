@@ -1,5 +1,5 @@
 ขั้นตอนติดตั้ง
-1.สร้างฐานข้อมูลชื่อ Rice ใน phpMyAdmin และนำเข้าไฟล์จาก DATABASE/RiceProject
+1.สร้างฐานข้อมูลชื่อ rice ใน phpMyAdmin และนำเข้าไฟล์จาก DATABASE/RiceProject
 2.วางโค้ดทั้งหมดใน c:/xampp/htdocs/RiceProject/
 3.เปิดเว็บเบราว์เซอร์ พิมพ์ http://localhost/RiceProject
 4.เข้าสู่ระบบด้วย username: owner และ password: 12345678
