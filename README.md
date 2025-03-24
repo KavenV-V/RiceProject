@@ -24,12 +24,11 @@ RiceProject เป็นระบบที่ช่วยจัดการร�
 ### 2️⃣ นำเข้าฐานข้อมูล  
 - นำเข้าไฟล์ฐานข้อมูลในโฟลเดอร์ `DATABASE` ไปยัง phpMyAdmin
 - อ่านไฟล์ Read me.txt
-  
-  ![image](https://github.com/user-attachments/assets/50f17bfa-e126-49c3-9df3-06c221a8b183)
-
-
 ### 3️⃣ เริ่มต้นใช้งาน  
-- เปิดเว็บเบราว์เซอร์และเข้าไปที่ `http://localhost/RiceProject`  
+- เปิดเว็บเบราว์เซอร์และเข้าไปที่ `http://localhost/RiceProject`
+
+  ![image](https://github.com/user-attachments/assets/1699142c-d4c2-41d0-8f0a-2ea5077c3c22)
+
 
 
 
